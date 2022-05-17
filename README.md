@@ -13,3 +13,19 @@
 - np.arctan() 아크탄젠트 값 구하기, np.degrees() 라디안을 도(º)로 변경
 - copyMakeBorder() 이미지 패딩
 - pytesseract.image_to_string 이미지에서 글자 읽기
+
+### [gas.ipynb](https://github.com/vacker92/record/blob/main/gas.ipynb)
+[가스 공급량 데이터 출처](https://www.data.go.kr/data/15091497/fileData.do)  
+[기온 데이터 출처](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) 
+> 가스공급량 시계열 예측 
+- [x] 작업 목록
+- 온도추가 전과 추가 후 상관관계 분석
+- tenserfolw LinearRegression 비교
+- 다양한 모델들로 예측값 확인
+- lstm을 사용해 시계열 예측 
+
+### [imagecrawling.py](https://github.com/vacker92/record/blob/main/imagecrawling.py)
+> selenium을 이용한 구글 이미지 크롤링 
+
+### [naver_api_news.py](https://github.com/vacker92/record/blob/main/naver_api_news.py)
+> naver api를 활용해 뉴스기사 크롤링
