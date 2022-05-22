@@ -14,6 +14,13 @@
 - copyMakeBorder() 이미지 패딩
 - pytesseract.image_to_string 이미지에서 글자 읽기
 
+### [yolov5_youtube.py](https://github.com/vacker92/record/blob/main/yolov5_youtube.py)  
+[결과](https://www.youtube.com/watch?v=1Q0Q_CRRh2c)  
+> yolov5를 사용해 사물인식
+- [x] 작업 목록
+- pafy 라이브러리 -> 유투브 동영상 크롤링
+- load_model 함수 : PyTorch 허브에서 제공하는 모델(yolov5 로드)
+
 ### [gas.ipynb](https://github.com/vacker92/record/blob/main/gas.ipynb)
 [가스 공급량 데이터 출처](https://www.data.go.kr/data/15091497/fileData.do)  
 [기온 데이터 출처](https://data.kma.go.kr/data/grnd/selectAsosRltmList.do?pgmNo=36) 
