@@ -19,7 +19,7 @@
 
 <img src="1.jpg" width="450px" height="500px"></img><br/>
 - [x] 작업 목록
-- YOLOv5 깃허브 저장소에서 모델 로드  
+- [YOLOv5 깃허브 저장소](https://github.com/ultralytics/yolov5) 모델 로드  
 
 
 ### [yolov5_youtube.py](https://github.com/vacker92/record/blob/main/yolov5_youtube.py)  
