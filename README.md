@@ -14,9 +14,17 @@
 - copyMakeBorder() 이미지 패딩
 - pytesseract.image_to_string 이미지에서 글자 읽기
 
+### [yolov5_image.ipynb](https://github.com/vacker92/record/blob/main/yolov5_image.ipynb)
+> YOLOv5를 사용해 이미지 객체인식  
+
+<img src="1.jpg" width="450px" height="500px"></img><br/>
+- [x] 작업 목록
+- YOLOv5 깃허브 저장소에서 모델 로드  
+
+
 ### [yolov5_youtube.py](https://github.com/vacker92/record/blob/main/yolov5_youtube.py)  
 [결과](https://www.youtube.com/watch?v=1Q0Q_CRRh2c)  
-> yolov5를 사용해 동영상 객체인식
+> YOLOv5를 사용해 동영상 객체인식
 - [x] 작업 목록
 - pafy 라이브러리 -> 유투브 동영상 크롤링
 - get_video_from_url 함수 : url에서 새 비디오 스트리밍 객체를 생성
