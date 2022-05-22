@@ -16,7 +16,7 @@
 
 ### [yolov5_youtube.py](https://github.com/vacker92/record/blob/main/yolov5_youtube.py)  
 [결과](https://www.youtube.com/watch?v=1Q0Q_CRRh2c)  
-> yolov5를 사용해 사물인식
+> yolov5를 사용해 동영상 객체인식
 - [x] 작업 목록
 - pafy 라이브러리 -> 유투브 동영상 크롤링
 - get_video_from_url 함수 : url에서 새 비디오 스트리밍 객체를 생성
