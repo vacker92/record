@@ -21,7 +21,6 @@
 - pafy 라이브러리 -> 유투브 동영상 크롤링
 - get_video_from_url 함수 : url에서 새 비디오 스트리밍 객체를 생성
 - load_model 함수 : PyTorch 허브에서 제공하는 모델 (yolov5 로드)
-- __call__ 함수 : 인스턴스 생성 시 호출, 프레임 단위로 비디오를 로드
 
 ### [gas.ipynb](https://github.com/vacker92/record/blob/main/gas.ipynb)
 [가스 공급량 데이터 출처](https://www.data.go.kr/data/15091497/fileData.do)  
